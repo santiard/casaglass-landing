@@ -24,7 +24,7 @@ export default function About() {
               </div>
               <h3 className="text-2xl font-bold mb-4 text-dark-blue">Ventas Al Mayor y Detal</h3>
               <p className="text-dark-gray leading-relaxed">
-                Comercializamos una amplia gama de productos al mayor y al detal, con los precios mas competitivos del mercado </p>
+                Comercializamos una amplia gama de productos al mayor y al detal, con los mejores precios del mercado </p>
             </div>
 
             {/* Experiencia */}
@@ -36,7 +36,7 @@ export default function About() {
               </div>
               <h3 className="text-2xl font-bold mb-4 text-dark-blue">Experiencia Comprobada</h3>
               <p className="text-dark-gray leading-relaxed">
-                Más de 300 proyectos exitosos nos respaldan. Nuestro equipo de expertos garantiza instalaciones perfectas y puntuales.
+                Más de 300 clientes satisfechos nos respaldan. Nuestro equipo de expertos garantiza instalaciones perfectas y puntuales.
               </p>
             </div>
 
@@ -49,7 +49,7 @@ export default function About() {
               </div>
               <h3 className="text-2xl font-bold mb-4 text-dark-blue">Distribuidores de Autorizados</h3>
               <p className="text-dark-gray leading-relaxed">
-                Somos distribuidores unicos y autorizados de las mejores marcas de aluminio y vidrio a nivel nacional en la ciudad de Cúcuta.
+                Somos distribuidores unicos en la ciudad de Cúcuta y autorizados de las mejores marcas de aluminio y vidrio a nivel nacional.
                 Utilizamos materiales de primera calidad con garantia de durabilidad y excelencia en cada proyecto.
               </p>
             </div>

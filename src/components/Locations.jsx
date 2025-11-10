@@ -2,7 +2,7 @@ export default function Locations() {
     const sedes = [
       { 
         ciudad: "CasaGlass Insula", 
-        label: "Sede Principal",
+        label: "Sede Principal Ventas al Mayor",
         direccion: "Av 7 # 1-96 La Insula", 
         telefono: "607 5281830",
         whatsapp: "+57 317 867 0627",
@@ -10,7 +10,7 @@ export default function Locations() {
       },
       { 
         ciudad: "CasaGlass Centro", 
-        label: "Sucursal",
+        label: "Sucursal Ventas al Detal",
         direccion: "Calle 7 # 8-63 Centro", 
         telefono: "607 5002649",
         whatsapp: "+57 321 238 9946",
@@ -18,7 +18,7 @@ export default function Locations() {
       },
       { 
         ciudad: "CasaGlass Patios", 
-        label: "Sucursal",
+        label: "Sucursal Ventas al Detal",
         direccion: "Av 10 KDX 30A-1B Los Patios", 
         telefono: "607 5557701",
         whatsapp: "+57 321 238 9946",

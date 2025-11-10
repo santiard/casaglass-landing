@@ -157,13 +157,13 @@ export default function Gallery() {
                 </div>
 
                 {/* Estadísticas */}
-                <div className="grid grid-cols-3 gap-4 mb-6">
+                <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 md:gap-4 mb-6">
                   {currentSlideData.stats.map((stat, idx) => (
-                    <div key={idx} className="text-center p-4 bg-white rounded-xl shadow-md hover:shadow-lg transition-shadow duration-300">
-                      <div className="text-xl lg:text-2xl font-bold text-light-blue mb-1">
+                    <div key={idx} className="text-center p-3 md:p-4 bg-white rounded-xl shadow-md hover:shadow-lg transition-shadow duration-300">
+                      <div className="text-lg md:text-xl lg:text-2xl font-bold text-light-blue mb-1">
                         {stat.value}
                       </div>
-                      <div className="text-xs lg:text-sm text-dark-gray font-medium">
+                      <div className="text-xs md:text-sm lg:text-sm text-dark-gray font-medium">
                         {stat.label}
                       </div>
                     </div>
