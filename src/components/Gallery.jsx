@@ -20,7 +20,7 @@ export default function Gallery() {
         </svg>
       ),
       stats: [
-        { value: "+30", label: "Colaboradores" },
+        { value: "+15", label: "Colaboradores" },
         { value: "+10", label: "Años de Experiencia" },
         { value: "100%", label: "Capacitados" }
       ]
