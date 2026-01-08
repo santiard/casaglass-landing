@@ -1,7 +1,7 @@
 export default function Locations() {
     const sedes = [
       { 
-        ciudad: "CasaGlass Insula", 
+        ciudad: "Casa Glass Insula", 
         label: "Sede Principal Ventas al Mayor",
         direccion: "Av 7 # 1-96 La Insula", 
         telefono: "607 5281830",
@@ -9,7 +9,7 @@ export default function Locations() {
         mapa: "https://maps.app.goo.gl/D59nx7A2iHrrGxPP7" 
       },
       { 
-        ciudad: "CasaGlass Centro", 
+        ciudad: "Casa Glass Centro", 
         label: "Sucursal Ventas al Mayor yDetal",
         direccion: "Calle 7 # 8-63 Centro", 
         telefono: "607 5002649",
@@ -17,7 +17,7 @@ export default function Locations() {
         mapa: "https://maps.app.goo.gl/XKjQXDmpGKd8YSrL9" 
       },
       { 
-        ciudad: "CasaGlass Patios", 
+        ciudad: "Casa Glass Patios", 
         label: "Sucursal Ventas al Detal",
         direccion: "Av 10 KDX 30A-1B Los Patios", 
         telefono: "607 5557701",

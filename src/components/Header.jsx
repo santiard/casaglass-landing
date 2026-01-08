@@ -8,7 +8,7 @@ export default function Header() {
         <div className="flex items-center space-x-3 group cursor-pointer">
           <img 
             src={logo} 
-            alt="CasaGlass Logo" 
+            alt="Casa Glass Logo" 
             className="h-12 transition-transform duration-300 group-hover:scale-105" 
           />
         </div>

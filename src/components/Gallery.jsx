@@ -12,8 +12,8 @@ export default function Gallery() {
     {
       src: personal,
       title: "Nuestro Equipo Humano",
-      subtitle: "El corazón de CasaGlass",
-      description: "Contamos con un equipo altamente capacitado y comprometido. Valoramos a cada miembro de nuestra familia CasaGlass, brindándoles las mejores condiciones laborales y oportunidades de crecimiento.",
+      subtitle: "El corazón de Casa Glass",
+      description: "Contamos con un equipo altamente capacitado y comprometido. Valoramos a cada miembro de nuestra familia Casa Glass, brindándoles las mejores condiciones laborales y oportunidades de crecimiento.",
       icon: (
         <svg className="w-12 h-12" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
@@ -113,7 +113,7 @@ export default function Gallery() {
         {/* Encabezado */}
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold mt-3 mb-6 text-dark-blue">
-            La Excelencia de CasaGlass
+            La Excelencia de Casa Glass
           </h2>
           <p className="max-w-5xl mx-auto text-lg text-dark-gray">
             Descubre qué nos hace diferentes: nuestro equipo, servicios, productos e instalaciones

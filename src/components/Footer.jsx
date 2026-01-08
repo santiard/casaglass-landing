@@ -7,7 +7,7 @@ export default function Footer() {
           <div className="grid grid-cols-1 md:grid-cols-4 gap-12 mb-12">
             {/* Columna 1: Logo y descripción */}
             <div className="space-y-4">
-              <h3 className="text-2xl font-bold text-white">CasaGlass</h3>
+              <h3 className="text-2xl font-bold text-white">Casa Glass</h3>
               <p className="text-gray-300 text-sm leading-relaxed">
                 Expertos en comercialización, diseño e instalación de soluciones en aluminio y vidrio templado con más de 10 años de experiencia.
               </p>
@@ -111,7 +111,7 @@ export default function Footer() {
           {/* Separador */}
           <div className="border-t border-white/10 pt-8">
             <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-gray-400">
-        <p>© {new Date().getFullYear()} CasaGlass. Todos los derechos reservados.</p>
+        <p>© {new Date().getFullYear()} Casa Glass. Todos los derechos reservados.</p>
               <div className="flex gap-6">
                 <a href="#" className="hover:text-light-blue transition-colors">Política de Privacidad</a>
                 <a href="#" className="hover:text-light-blue transition-colors">Términos y Condiciones</a>
