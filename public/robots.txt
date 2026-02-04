@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://casaglass.com.co/sitemap.xml
+
+# Bloquear archivos innecesarios
+Disallow: /src/
+Disallow: /*.json$
+Disallow: /node_modules/
+

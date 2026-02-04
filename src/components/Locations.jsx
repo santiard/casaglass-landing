@@ -21,7 +21,7 @@ export default function Locations() {
         label: "Sucursal Ventas al Detal",
         direccion: "Av 10 KDX 30A-1B Los Patios", 
         telefono: "607 5557701",
-        whatsapp: "+57 317 867 0627",
+        whatsapp: "+57 301 9710184",
         mapa: "https://maps.app.goo.gl/hJDnkKJ4CBfYyZB66" 
       },
     ];
